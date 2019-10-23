@@ -1,7 +1,10 @@
-# sip2mqtt
+# CB sip2mqtt
  
-Dockerfile inspired by MartyTremblay / https://github.com/MartyTremblay/pjsip-docker 
-and minoruta / https://github.com/minoruta/pjsip-node-alpine
+Dockerfile inspired by 
+
+MartyTremblay / https://github.com/MartyTremblay/pjsip-docker 
+Raph2i https://github.com/raph2i/hassio-addons
+minoruta / https://github.com/minoruta/pjsip-node-alpine
 
 ## configuration.yaml
 ```
@@ -14,4 +17,4 @@ sensor:
 ```
 
 ## hass sensor
-![alt text](https://raw.githubusercontent.com/raph2i/hassio-addons/master/sip2mqtt/pic.png "mqtt_sensor")
+![alt text](https://raw.githubusercontent.com/CB69/hassio-addons/master/CBsip2mqtt/pic.png "mqtt_sensor")
