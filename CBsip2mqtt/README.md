@@ -1,5 +1,7 @@
 # CB sip2mqtt
- 
+
+Important! Install process may take up to 5 minutes, let it do its things.
+
 Dockerfile inspired by 
 
 MartyTremblay / https://github.com/MartyTremblay/pjsip-docker 
