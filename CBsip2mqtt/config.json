@@ -1,6 +1,6 @@
 {
   "name": "CB sip2mqtt",
-  "version": "0.2",
+  "version": "0.3",
   "slug": "cbsip2mqtt",
   "description": "A SIP monitoring script that publishes incoming calls with CallerID to an MQTT channel",
   "startup": "services",
